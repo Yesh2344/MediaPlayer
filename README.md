@@ -1,6 +1,6 @@
 # Sonic Wave Music Player
 
-Sonic Wave is a modern, feature-rich music player built with Python using customtkinter and pygame. It offers a sleek, dark-themed interface with advanced playback controls and music visualization.
+Sonic Wave is a modern, feature-rich music player built with Python using customtkinter and pygame. It offers a sleek, dark-themed interface with advanced playback controls and music visualization. It should be someones dream to work on these projects.
 
 ## Features
 
