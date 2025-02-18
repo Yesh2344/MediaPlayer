@@ -54,6 +54,17 @@ python music_player.py
 
 ## Features in Detail
 
+## Keyboard Shortcuts
+
+- Space: Play/Pause
+- Left Arrow: Previous track
+- Right Arrow: Next track
+- Up Arrow: Volume up
+- Down Arrow: Volume down
+- Ctrl+F: Focus search bar
+- Ctrl+L: Open library
+- Ctrl+P: Create new playlist
+
 ### Music Library
 - Browse and select music folders
 - Automatic metadata extraction from MP3 files
