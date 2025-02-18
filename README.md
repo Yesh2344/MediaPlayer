@@ -97,3 +97,7 @@ This project is open source and available under the MIT License.
 - Extended file format support
 - Remote control capabilities
 - Cross-platform testing and optimization
+
+## Contact Information
+
+Email:
